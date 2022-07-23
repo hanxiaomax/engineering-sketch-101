@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🍃Seeds/构建常用模板.md",
-            "mode": "preview",
+            "file": "Readme.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -67,12 +67,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "336b1ce81bbb2250",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍃Seeds/构建常用模板.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍃Seeds/构建常用模板.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍃Seeds/构建常用模板.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -141,15 +140,15 @@
   },
   "active": "98f7863cf82418b5",
   "lastOpenFiles": [
-    "Excalidraw/构建常用模板 20220722.excalidraw.md",
+    "Excalidraw/_HOME-overview-kanban.excalidraw.md",
+    "Readme.md",
+    "Excalidraw/_HOME-overview-kanban.excalidraw.svg",
+    "Excalidraw/_HOME 20220722.excalidraw.svg",
     "🍃Seeds/构建常用模板.md",
-    "✅ _HOME.md",
+    "Excalidraw/构建常用模板 20220722.excalidraw.md",
     "🍃Seeds/构建个人视觉语言.md",
     "Excalidraw/构建个人视觉语言-第八元素.excalidraw.md",
     "Excalidraw/构建个人视觉语言 20220722_0.excalidraw.md",
-    "Excalidraw/构建常用模板 20220722.excalidraw.svg",
-    "Excalidraw/构建个人视觉语言-第八元素.excalidraw.svg",
-    "Excalidraw/从基本形状到图标 20220721.excalidraw.svg",
-    "Excalidraw/构建个人视觉语言 20220722_0.excalidraw.svg"
+    "Excalidraw/构建常用模板 20220722.excalidraw.svg"
   ]
 }
