@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "cm-editor-syntax-highlight-obsidian",
   "oz-image-plugin",
   "recent-files-obsidian",
@@ -9,5 +8,6 @@
   "dataview",
   "obsidian-image-toolkit",
   "supercharged-links-obsidian",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git"
 ]
