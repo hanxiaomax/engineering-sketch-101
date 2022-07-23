@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "19a25a951838786f",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f7863cf82418b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🍃Seeds/构建常用模板.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "695dd7e2d4d40a0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "883d25d3ff2bf602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27012e2250dfee19",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4981bb51c8c77c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0be9f6fad0f6ee83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "von-",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be8fc23c9431f14e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "336b1ce81bbb2250",
+    "type": "split",
+    "children": [
+      {
+        "id": "78845a9c3baf35f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbf79b2b596dcaea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🍃Seeds/构建常用模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f9d022d6b4adf01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🍃Seeds/构建常用模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5d6eaa977a057b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d80f319c18ec00ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🍃Seeds/构建常用模板.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "98f7863cf82418b5",
+  "lastOpenFiles": [
+    "Excalidraw/构建常用模板 20220722.excalidraw.md",
+    "🍃Seeds/构建常用模板.md",
+    "✅ _HOME.md",
+    "🍃Seeds/构建个人视觉语言.md",
+    "Excalidraw/构建个人视觉语言-第八元素.excalidraw.md",
+    "Excalidraw/构建个人视觉语言 20220722_0.excalidraw.md",
+    "Excalidraw/构建常用模板 20220722.excalidraw.svg",
+    "Excalidraw/构建个人视觉语言-第八元素.excalidraw.svg",
+    "Excalidraw/从基本形状到图标 20220721.excalidraw.svg",
+    "Excalidraw/构建个人视觉语言 20220722_0.excalidraw.svg"
+  ]
+}

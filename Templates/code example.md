@@ -1,0 +1,1 @@
+<% tp.user.create_code_example(tp) %>

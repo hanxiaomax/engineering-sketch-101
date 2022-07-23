@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "title": "file:/(outline)/",
+      "query": "file:/(outline)/"
+    },
+    {
+      "type": "search",
+      "title": "block:/\\PROCESS.tag/",
+      "query": "block:/\\PROCESS.tag/"
+    },
+    {
+      "type": "search",
+      "title": "file:/.*MOC/",
+      "query": "file:/.*MOC/"
+    },
+    {
+      "type": "file",
+      "title": "_HOME",
+      "path": "✅ _HOME.md"
+    },
+    {
+      "type": "file",
+      "title": "Computer Science MOC",
+      "path": "2_MOCs/Computer Science MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "Topics MOC",
+      "path": "_Topics MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "操作系统实战 MOC",
+      "path": "2_MOCs/操作系统内核实战 MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "Linux 常用操作和工作流",
+      "path": "3_Notes/Linux 常用操作和工作流.md"
+    },
+    {
+      "type": "file",
+      "title": "icon MOC",
+      "path": "icon/icon MOC.md"
+    }
+  ]
+}

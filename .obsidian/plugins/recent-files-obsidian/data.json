@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "构建常用模板",
+      "path": "🍃Seeds/构建常用模板.md"
+    },
+    {
+      "basename": "构建常用模板 20220722.excalidraw",
+      "path": "Excalidraw/构建常用模板 20220722.excalidraw.md"
+    },
+    {
+      "basename": "✅ _HOME",
+      "path": "✅ _HOME.md"
+    },
+    {
+      "basename": "构建个人视觉语言",
+      "path": "🍃Seeds/构建个人视觉语言.md"
+    },
+    {
+      "basename": "构建个人视觉语言-第八元素.excalidraw",
+      "path": "Excalidraw/构建个人视觉语言-第八元素.excalidraw.md"
+    },
+    {
+      "basename": "构建个人视觉语言 20220722_0.excalidraw",
+      "path": "Excalidraw/构建个人视觉语言 20220722_0.excalidraw.md"
+    },
+    {
+      "basename": "构建常用模板 20220722.excalidraw",
+      "path": "Excalidraw/构建常用模板 20220722.excalidraw.svg"
+    },
+    {
+      "basename": "构建个人视觉语言-第八元素.excalidraw",
+      "path": "Excalidraw/构建个人视觉语言-第八元素.excalidraw.svg"
+    },
+    {
+      "basename": "从基本形状到图标 20220721.excalidraw",
+      "path": "Excalidraw/从基本形状到图标 20220721.excalidraw.svg"
+    },
+    {
+      "basename": "构建个人视觉语言 20220722_0.excalidraw",
+      "path": "Excalidraw/构建个人视觉语言 20220722_0.excalidraw.svg"
+    },
+    {
+      "basename": "✅ _HOME 20220722.excalidraw",
+      "path": "Excalidraw/✅ _HOME 20220722.excalidraw.md"
+    },
+    {
+      "basename": "从基本形状到图标 20220721.excalidraw",
+      "path": "Excalidraw/从基本形状到图标 20220721.excalidraw.md"
+    },
+    {
+      "basename": "Linux 内核 MOC 20220720.excalidraw",
+      "path": "Excalidraw/Linux 内核 MOC 20220720.excalidraw.md"
+    },
+    {
+      "basename": "Linux 内核 MOC",
+      "path": "2_MOCs/Linux 内核 MOC.md"
+    },
+    {
+      "basename": "Linux 进程管理 MOC",
+      "path": "2_MOCs/Linux 进程管理 MOC.md"
+    },
+    {
+      "basename": "Linux 的调度策略",
+      "path": "3_Notes/Linux 的调度策略.md"
+    },
+    {
+      "basename": "进程描述符与PCB",
+      "path": "3_Notes/进程描述符与PCB.md"
+    },
+    {
+      "basename": "Linux 如何实现系统 API",
+      "path": "3_Notes/Linux 如何实现系统 API.md"
+    },
+    {
+      "basename": "Linux 常用操作和工作流",
+      "path": "3_Notes/Linux 常用操作和工作流.md"
+    },
+    {
+      "basename": "进程调度策略算法",
+      "path": "3_Notes/进程调度策略算法.md"
+    },
+    {
+      "basename": "讨论任务调度时需要首先定义工作负载",
+      "path": "3_Notes/讨论任务调度时需要首先定义工作负载.md"
+    },
+    {
+      "basename": "CPU 虚拟化的底层机制",
+      "path": "3_Notes/CPU 虚拟化的底层机制.md"
+    },
+    {
+      "basename": "Linux 线程创建",
+      "path": "3_Notes/Linux 线程创建.md"
+    },
+    {
+      "basename": "操作系统安全",
+      "path": "3_Notes/操作系统安全.md"
+    },
+    {
+      "basename": "Linux 进程创建",
+      "path": "3_Notes/Linux 进程创建.md"
+    },
+    {
+      "basename": "进程状态及其转换关系",
+      "path": "3_Notes/进程状态及其转换关系.md"
+    },
+    {
+      "basename": "内核线程",
+      "path": "3_Notes/内核线程.md"
+    },
+    {
+      "basename": "Linux 并发 MOC",
+      "path": "2_MOCs/Linux 并发 MOC.md"
+    },
+    {
+      "basename": "Linux 内核 MOC-onepage.excalidraw",
+      "path": "Excalidraw/Linux 内核 MOC-onepage.excalidraw.md"
+    },
+    {
+      "basename": "Linux 网络系统 MOC",
+      "path": "2_MOCs/Linux 网络系统 MOC.md"
+    },
+    {
+      "basename": "Linux 输入输出系统 MOC",
+      "path": "2_MOCs/Linux 输入输出系统 MOC.md"
+    },
+    {
+      "basename": "Linux IO系统的抽象和层次结构",
+      "path": "3_Notes/Linux IO系统的抽象和层次结构.md"
+    },
+    {
+      "basename": "IO设备",
+      "path": "3_Notes/IO设备.md"
+    },
+    {
+      "basename": "持久化",
+      "path": "2_MOCs/持久化.md"
+    },
+    {
+      "basename": "Linux 文件系统 MOC",
+      "path": "2_MOCs/Linux 文件系统 MOC.md"
+    },
+    {
+      "basename": "LInux 伪文件系统 Pseudo File System",
+      "path": "3_Notes/LInux 伪文件系统 Pseudo File System.md"
+    },
+    {
+      "basename": "Linux 的虚拟文件系统 VFS",
+      "path": "3_Notes/Linux 的虚拟文件系统 VFS.md"
+    },
+    {
+      "basename": "Linux 虚拟文件系统(VFS)的实现方式",
+      "path": "3_Notes/Linux 虚拟文件系统(VFS)的实现方式.md"
+    },
+    {
+      "basename": "Linux 文件系统和目录结构",
+      "path": "3_Notes/Linux 文件系统和目录结构.md"
+    },
+    {
+      "basename": "Linux 文件系统的文件类型",
+      "path": "3_Notes/Linux 文件系统的文件类型.md"
+    },
+    {
+      "basename": "Linux 内存管理 MOC",
+      "path": "2_MOCs/Linux 内存管理 MOC.md"
+    },
+    {
+      "basename": "虚拟内存的申请和分配过程",
+      "path": "3_Notes/虚拟内存的申请和分配过程.md"
+    },
+    {
+      "basename": "虚拟内存的分配方式及其联系",
+      "path": "3_Notes/虚拟内存的分配方式及其联系.md"
+    },
+    {
+      "basename": "Linux 内核使用 vmalloc 分配内核虚拟内存",
+      "path": "3_Notes/Linux 内核使用 vmalloc 分配内核虚拟内存.md"
+    },
+    {
+      "basename": "Linux启动流程和内核的初始化",
+      "path": "3_Notes/Linux启动流程和内核的初始化.md"
+    },
+    {
+      "basename": "计算机启动流程",
+      "path": "3_Notes/计算机启动流程.md"
+    },
+    {
+      "basename": "体系结构 MOC",
+      "path": "2_MOCs/体系结构 MOC.md"
+    },
+    {
+      "basename": "主板与外设",
+      "path": "3_Notes/主板与外设.md"
+    },
+    {
+      "basename": "Computer Science MOC",
+      "path": "2_MOCs/Computer Science MOC.md"
+    },
+    {
+      "basename": "操作系统内核实战 MOC",
+      "path": "2_MOCs/操作系统内核实战 MOC.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

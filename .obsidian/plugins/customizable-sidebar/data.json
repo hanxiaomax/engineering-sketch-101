@@ -1,0 +1,33 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "templater-obsidian:insert-templater",
+      "name": "Templater: Open Insert Template modal",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Alt"
+          ],
+          "key": "e"
+        }
+      ],
+      "icon": "feather-book-open"
+    },
+    {
+      "id": "customizable-sidebar:theme-toggle",
+      "name": "Customizable Sidebar: Toggle Dark/Light Mode",
+      "icon": "feather-eye"
+    },
+    {
+      "id": "sliding-panes-obsidian:toggle-sliding-panes",
+      "name": "Sliding Panes (Andy's Mode): Toggle Sliding Panes",
+      "icon": "feather-sliders"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed",
+      "name": "Excalidraw: Create a new drawing - IN A NEW PANE - and embed into active document",
+      "icon": "create-new"
+    }
+  ],
+  "hiddenCommands": []
+}
