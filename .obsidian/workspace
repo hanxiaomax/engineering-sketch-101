@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Excalidraw/构建个人视觉语言-第八元素.excalidraw.md"
+            "file": "Excalidraw/构建常用模板 20220722.excalidraw.md"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/构建个人视觉语言-第八元素.excalidraw.md",
+                "file": "Excalidraw/构建常用模板 20220722.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/构建个人视觉语言-第八元素.excalidraw.md",
+                "file": "Excalidraw/构建常用模板 20220722.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/构建个人视觉语言-第八元素.excalidraw.md"
+                "file": "Excalidraw/构建常用模板 20220722.excalidraw.md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "276d449cf18a1b6a",
   "lastOpenFiles": [
-    "🍃Seeds/构建个人视觉语言.md",
     "🍃Seeds/构建常用模板.md",
+    "🍃Seeds/构建个人视觉语言.md",
+    "Excalidraw/构建个人视觉语言 20220722_0.excalidraw.md",
+    "Excalidraw/构建个人视觉语言-第八元素.excalidraw.md",
     "Excalidraw/构建常用模板 20220723.excalidraw.md",
     "HOME.md",
     "Readme.md",
     "Excalidraw/构建常用模板 20220722.excalidraw.md",
     "8_Attachment/Pasted Image 20220722234749_504.png",
-    "8_Attachment/Pasted Image 20220722234728_870.png",
-    "8_Attachment/Pasted Image 20220722234658_565.png",
-    "8_Attachment/Pasted Image 20220722234708_607.png"
+    "8_Attachment/Pasted Image 20220722234728_870.png"
   ]
 }
